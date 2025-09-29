@@ -1,0 +1,5 @@
+=== Gradient Boosting Regressor Performance ===
+MAE: 5.2168
+MSE: 28.8438
+RMSE: 5.3706
+R2: -29.1591
